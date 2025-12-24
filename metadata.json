@@ -1,0 +1,7 @@
+{
+  "name": "Soulful Journeys - Small Business HRMS",
+  "description": "A comprehensive Human Resource Management System for small businesses featuring time tracking, attendance logs, organizational mind maps, employee records, onboarding flows, and payroll management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
